@@ -1,5 +1,5 @@
 Package: mscsim-data-terrain
-Version: 0.4
+Version: 0.1
 Architecture: all
 Maintainer: Marek M. Cel <marekcel@marekcel.pl>
 Depends:

@@ -3,11 +3,11 @@
 ################################################################################
 
 APP_NAME=mscsim
-APP_VER=0.4
+APP_VER=0.1
 
 ################################################################################
 
-DATA_TERRAIN_DIR=${APP_NAME}-data-terrain_*_focal_all
+DATA_TERRAIN_DIR=${APP_NAME}-data-terrain_${APP_VER}_focal_all
 
 sudo rm -R $DATA_TERRAIN_DIR
 sudo rm $DATA_TERRAIN_DIR.deb
