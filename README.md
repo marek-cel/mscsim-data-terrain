@@ -18,7 +18,7 @@ This data set was generated with [VirtualPlanetBuilder](https://github.com/opens
 
 ![Screenshot 4](screenshot_04.jpg)
 
-## Data Sources
+## Data sources
 
 Terrain data is based on the available public domain data.
 
@@ -59,7 +59,7 @@ State of Hawaii provides geospatial data of Hawaii, including satellite true col
 
 * [State of Hawaii - Office of Planning](planning.hawaii.gov/gis/download-gis-data/)
 
-## See also:
+## See also
 
 * [Terrain Data for Flight Simulators](https://raw.githubusercontent.com/marek-cel/mscsim-docs/master/terrain.pdf)
 * [OpenTerrain](http://www.open-terrain.org/)
