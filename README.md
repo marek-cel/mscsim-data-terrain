@@ -43,7 +43,7 @@ The original [Blue Marble](https://en.wikipedia.org/wiki/The_Blue_Marble) is a p
 
 ### High Resolution Orthoimagery
 
-[USGS High Resolution Orthoimagery (HRO)](USGS High Resolution Orthoimagery) is a collections of aerial photographs with resolution 1 m/pixel or finer, managed and distributed by the USGS EROS Center. Since data came from multiple vendors, resolution, area of coverage, projection, etc. varies.
+[USGS High Resolution Orthoimagery (HRO)](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-aerial-photography-high-resolution-orthoimagery-hro) is a collections of aerial photographs with resolution 1 m/pixel or finer, managed and distributed by the USGS EROS Center. Since data came from multiple vendors, resolution, area of coverage, projection, etc. varies.
 
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov)
 
