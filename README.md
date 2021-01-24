@@ -3,7 +3,7 @@ Terrain data for [MScSim](https://github.com/marek-cel/mscsim).
 
 ## Data Sources
 
-Terrain data is based on publically available public domain data.
+Terrain data is based on the available public domain data.
 
 ### Blue Marble Next Generation (BMNG)
 
