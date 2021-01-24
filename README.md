@@ -2,7 +2,9 @@
 
 Terrain data for [MScSim](https://github.com/marek-cel/mscsim).
 
-High resolution photorealistic scenery based on aerial imagery of Oahu island, low resolution scenery based on satellite imagery of the whole World.
+High resolution photorealistic scenery based on aerial imagery of the Oahu island, medium resolution scenery based on satellite imagery of the Hawaii islands, low resolution scenery based on satellite imagery of the rest of the World.
+
+## Images
 
 ![Screenshot 1](screenshot_01.jpg)
 
