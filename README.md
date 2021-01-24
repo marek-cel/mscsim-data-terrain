@@ -6,7 +6,7 @@ High resolution photorealistic scenery based on aerial imagery of the Oahu islan
 
 This data set was generated with [VirtualPlanetBuilder](https://github.com/openscenegraph/VirtualPlanetBuilder).
 
-[Geospatial Data Abstraction Library](https://gdal.org/) (GDAL) was used to process input data.
+[Geospatial Data Abstraction Library (GDAL)](https://gdal.org/) was used to process input data.
 
 ## Images
 
@@ -43,13 +43,13 @@ The original [Blue Marble](https://en.wikipedia.org/wiki/The_Blue_Marble) is a p
 
 ### High Resolution Orthoimagery
 
-[USGS High Resolution Orthoimagery](USGS High Resolution Orthoimagery) (HRO) is a collections of aerial photographs with resolution 1 m/pixel or finer, managed and distributed by the USGS EROS Center. Since data came from multiple vendors, resolution, area of coverage, projection, etc. varies.
+[USGS High Resolution Orthoimagery (HRO)](USGS High Resolution Orthoimagery) is a collections of aerial photographs with resolution 1 m/pixel or finer, managed and distributed by the USGS EROS Center. Since data came from multiple vendors, resolution, area of coverage, projection, etc. varies.
 
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov)
 
 ### MODIS MOD44W Watermask
 
-[Moderate Resolution Imaging Spectroradiometer](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer) (MODIS) is an imaging sensor on board of the Terra satellite. It was launched by NASA in 1999. MODIS Land Water Mask (MOD44W) is a global raster water mask at 250 m/pixel resolution.
+[Moderate Resolution Imaging Spectroradiometer (MODIS)](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer) is an imaging sensor on board of the Terra satellite. It was launched by NASA in 1999. MODIS Land Water Mask (MOD44W) is a global raster water mask at 250 m/pixel resolution.
 
 * [University of Maryland - Global Land Cover Facility](http://glcf.umd.edu/data/watermask/)
 
@@ -58,3 +58,11 @@ The original [Blue Marble](https://en.wikipedia.org/wiki/The_Blue_Marble) is a p
 State of Hawaii provides geospatial data of Hawaii, including satellite true color imagery, LiDAR elevation and coastline data.
 
 * [State of Hawaii - Office of Planning](planning.hawaii.gov/gis/download-gis-data/)
+
+## See also:
+
+* [Terrain Data for Flight Simulators](https://raw.githubusercontent.com/marek-cel/mscsim-docs/master/terrain.pdf)
+* [OpenTerrain](http://www.open-terrain.org/)
+* [USGS National Map](http://viewer.nationalmap.gov/basic/)
+* [Shaded Relief](http://shadedrelief.com/)
+* [Indiana University - Vector map level 0 (VMAP0)](http://webapp1.dlib.indiana.edu/virtual_disk_library/index.cgi/4911752)
